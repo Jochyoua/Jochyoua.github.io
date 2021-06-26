@@ -1,0 +1,22 @@
+body {
+     background-image: url(https://www.fairy.land/img/bg.png) !important;
+     background-repeat: repeat !important;
+     background-attachment: fixed !important;
+     background-color: #f7f7f7 !important;
+     font-family: "Montserrat", sans-serif;
+}
+ a {
+     color:#D0D0D0 !important;
+     transition: .50s;
+}
+ a:hover {
+     color: white !important;
+}
+ .header {
+     background-color: #4B5974 !important;
+     color:white !important;
+     font-weight: 700;
+     font-size: 1.28571429em;
+     line-height: 1.28571429em;
+     padding:4px;
+}
